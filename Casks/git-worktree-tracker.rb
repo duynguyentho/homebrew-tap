@@ -1,6 +1,6 @@
 cask "git-worktree-tracker" do
-  version "0.1.0"
-  sha256 "1c81495e4e72a8eecf8914d812761d1421ea88dbe17508acb3fb0128779f5d5d"
+  version "0.2.0"
+  sha256 "617c85770dd2435a5a8202083167e08bb669d6be5ed724b00ac252b4a5eb27c3"
 
   url "https://github.com/duynguyentho/git-worktree-tracker/releases/download/v#{version}/Worktrees-#{version}.zip"
   name "Worktrees"
