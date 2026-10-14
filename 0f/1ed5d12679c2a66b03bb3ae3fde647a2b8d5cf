@@ -1,0 +1,19 @@
+Casks/git-worktree-tracker.rb
+  s_6d223886611d13::t_fa82d74afefd8a 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0f1ed5d12679c2a66b03bb3ae3fde647a2b8d5cf",
+  "prompts": {},
+  "sessions": {
+    "s_6d223886611d13": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3d1f83b-5668-4bd7-8cd5-7ae2b8e37bc2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "duynguyentho <duynt2201@gmail.com>"
+    }
+  }
+}
